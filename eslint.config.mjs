@@ -12,6 +12,10 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    "scripts/**",
+    "ecosystem.config.js",
+    ".wwebjs_cache/**",
+    ".wwebjs_auth/**",
   ]),
 ]);
 
